@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="wwwroot\NovaPasta\**" />
+    <Content Remove="wwwroot\NovaPasta\**" />
+    <EmbeddedResource Remove="wwwroot\NovaPasta\**" />
+    <None Remove="wwwroot\NovaPasta\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Remove="wwwroot\images\pexels-natan-machado-fotografia-gastronômica-15010292 %282%29.jpg" />
+    <Content Remove="wwwroot\images\pexels-natan-machado-fotografia-gastronômica-15010292.jpg" />
+    <Content Remove="wwwroot\images\pexels-valeria-boltneva-1199957 %282%29.jpg" />
+    <Content Remove="wwwroot\images\pexels-valeria-boltneva-1199957.jpg" />
+    <Content Remove="wwwroot\images\pexels-valeria-boltneva-9406088 %282%29.jpg" />
+    <Content Remove="wwwroot\images\pexels-valeria-boltneva-9406088.jpg" />
+  </ItemGroup>
+
+</Project>

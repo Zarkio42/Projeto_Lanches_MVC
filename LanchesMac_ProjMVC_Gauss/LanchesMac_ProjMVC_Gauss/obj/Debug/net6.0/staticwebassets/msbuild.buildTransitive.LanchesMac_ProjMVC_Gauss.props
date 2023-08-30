@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\LanchesMac_ProjMVC_Gauss.props" />
+</Project>

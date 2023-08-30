@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LanchesMac_ProjMVC_Gauss/1.0.0": {
+        "runtime": {
+          "LanchesMac_ProjMVC_Gauss.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LanchesMac_ProjMVC_Gauss/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
