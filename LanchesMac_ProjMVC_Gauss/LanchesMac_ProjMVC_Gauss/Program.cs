@@ -1,7 +1,18 @@
+using LanchesMac_ProjMVC_Gauss.Context;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Infrastructure;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddDbContext<AppDbContext>(options => options.UseSqlServer(GetConnectionString("DefaultConnection")));
+
+Action<SqlServerDbContextOptionsBuilder> GetConnectionString(string v)
+{
+    throw new NotImplementedException();
+}
 
 var app = builder.Build();
 

@@ -9,37 +9,37 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = LanchesMac_ProjMVC_Gauss
 build_property.RootNamespace = LanchesMac_ProjMVC_Gauss
-build_property.ProjectDir = C:\Users\User\source\repos\LanchesMac_ProjMVC_Gauss\LanchesMac_ProjMVC_Gauss\
+build_property.ProjectDir = C:\Users\User\Desktop\Projeto_Lanches_MVC\LanchesMac_ProjMVC_Gauss\LanchesMac_ProjMVC_Gauss\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\User\source\repos\LanchesMac_ProjMVC_Gauss\LanchesMac_ProjMVC_Gauss
+build_property.MSBuildProjectDirectory = C:\Users\User\Desktop\Projeto_Lanches_MVC\LanchesMac_ProjMVC_Gauss\LanchesMac_ProjMVC_Gauss
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/User/source/repos/LanchesMac_ProjMVC_Gauss/LanchesMac_ProjMVC_Gauss/Views/Home/Index.cshtml]
+[C:/Users/User/Desktop/Projeto_Lanches_MVC/LanchesMac_ProjMVC_Gauss/LanchesMac_ProjMVC_Gauss/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/source/repos/LanchesMac_ProjMVC_Gauss/LanchesMac_ProjMVC_Gauss/Views/Shared/Error.cshtml]
+[C:/Users/User/Desktop/Projeto_Lanches_MVC/LanchesMac_ProjMVC_Gauss/LanchesMac_ProjMVC_Gauss/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/source/repos/LanchesMac_ProjMVC_Gauss/LanchesMac_ProjMVC_Gauss/Views/Shared/_Caroussel.cshtml]
+[C:/Users/User/Desktop/Projeto_Lanches_MVC/LanchesMac_ProjMVC_Gauss/LanchesMac_ProjMVC_Gauss/Views/Shared/_Caroussel.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9DYXJvdXNzZWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/source/repos/LanchesMac_ProjMVC_Gauss/LanchesMac_ProjMVC_Gauss/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/User/Desktop/Projeto_Lanches_MVC/LanchesMac_ProjMVC_Gauss/LanchesMac_ProjMVC_Gauss/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/source/repos/LanchesMac_ProjMVC_Gauss/LanchesMac_ProjMVC_Gauss/Views/_ViewImports.cshtml]
+[C:/Users/User/Desktop/Projeto_Lanches_MVC/LanchesMac_ProjMVC_Gauss/LanchesMac_ProjMVC_Gauss/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/source/repos/LanchesMac_ProjMVC_Gauss/LanchesMac_ProjMVC_Gauss/Views/_ViewStart.cshtml]
+[C:/Users/User/Desktop/Projeto_Lanches_MVC/LanchesMac_ProjMVC_Gauss/LanchesMac_ProjMVC_Gauss/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/source/repos/LanchesMac_ProjMVC_Gauss/LanchesMac_ProjMVC_Gauss/Views/Shared/_Layout.cshtml]
+[C:/Users/User/Desktop/Projeto_Lanches_MVC/LanchesMac_ProjMVC_Gauss/LanchesMac_ProjMVC_Gauss/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-3866x4pfcc

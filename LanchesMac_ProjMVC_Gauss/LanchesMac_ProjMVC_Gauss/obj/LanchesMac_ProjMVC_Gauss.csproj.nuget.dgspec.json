@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\LanchesMac_ProjMVC_Gauss\\LanchesMac_ProjMVC_Gauss\\LanchesMac_ProjMVC_Gauss.csproj": {}
+    "C:\\Users\\User\\Desktop\\Projeto_Lanches_MVC\\LanchesMac_ProjMVC_Gauss\\LanchesMac_ProjMVC_Gauss\\LanchesMac_ProjMVC_Gauss.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\LanchesMac_ProjMVC_Gauss\\LanchesMac_ProjMVC_Gauss\\LanchesMac_ProjMVC_Gauss.csproj": {
+    "C:\\Users\\User\\Desktop\\Projeto_Lanches_MVC\\LanchesMac_ProjMVC_Gauss\\LanchesMac_ProjMVC_Gauss\\LanchesMac_ProjMVC_Gauss.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\LanchesMac_ProjMVC_Gauss\\LanchesMac_ProjMVC_Gauss\\LanchesMac_ProjMVC_Gauss.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\Projeto_Lanches_MVC\\LanchesMac_ProjMVC_Gauss\\LanchesMac_ProjMVC_Gauss\\LanchesMac_ProjMVC_Gauss.csproj",
         "projectName": "LanchesMac_ProjMVC_Gauss",
-        "projectPath": "C:\\Users\\User\\source\\repos\\LanchesMac_ProjMVC_Gauss\\LanchesMac_ProjMVC_Gauss\\LanchesMac_ProjMVC_Gauss.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\Projeto_Lanches_MVC\\LanchesMac_ProjMVC_Gauss\\LanchesMac_ProjMVC_Gauss\\LanchesMac_ProjMVC_Gauss.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\LanchesMac_ProjMVC_Gauss\\LanchesMac_ProjMVC_Gauss\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\Projeto_Lanches_MVC\\LanchesMac_ProjMVC_Gauss\\LanchesMac_ProjMVC_Gauss\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -43,6 +44,24 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.10, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
