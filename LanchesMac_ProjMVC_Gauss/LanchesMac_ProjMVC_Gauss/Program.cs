@@ -1,18 +1,19 @@
 using LanchesMac_ProjMVC_Gauss.Context;
+using LanchesMac_ProjMVC_Gauss.Repositories;
+using LanchesMac_ProjMVC_Gauss.Repositories.Interfaces;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.EntityFrameworkCore.Infrastructure;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
-builder.Services.AddDbContext<AppDbContext>(options => options.UseSqlServer(GetConnectionString("DefaultConnection")));
+var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
+builder.Services.AddDbContext<AppDbContext>(options =>
+    options.UseSqlServer(connectionString));
 
-Action<SqlServerDbContextOptionsBuilder> GetConnectionString(string v)
-{
-    throw new NotImplementedException();
-}
+builder.Services.AddTransient<ILancheRepository, LancheRepository>();
+builder.Services.AddTransient<ICategoriaRepository, ICategoriaRepository>();
 
 var app = builder.Build();
 
