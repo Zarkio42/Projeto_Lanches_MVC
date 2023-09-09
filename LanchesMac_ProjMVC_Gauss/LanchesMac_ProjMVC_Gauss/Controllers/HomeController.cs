@@ -9,6 +9,7 @@ namespace LanchesMac_ProjMVC_Gauss.Controllers
 
         public IActionResult Index()
         {
+            TempData["Nome"] = "Pedro";
             return View();
         }
 
