@@ -1,16 +1,23 @@
-﻿@model IEnumerable<LanchesMac_ProjMVC_Gauss.Models.Lanche>
+﻿@model LancheListViewModel
 
 <div>
-    <h2>@ViewData["Titulo"]</h2>
+    <h2>@Model.CategoriaAtual</h2>
 </div>
 
-<hr/>
+<hr />
 
-@foreach(var lanche in Model)
-{
-    <div>
-        <h4>@lanche.NameLanche</h4>
-        <p><img src="@lanche.ImagemUrl"></p>
-        <h3>Preço : @lanche.Preco.ToString("c")</h3>
+<div class="container">
+    <div class="row">
+
+        @foreach (var lanche in Model.Lanches)
+        {
+
+            <div class="col-sm-4 col-md-4 col-lg-4">
+                <h4>@lanche.NameLanche</h4>
+                <p><img src="@lanche.ImagemUrl" class="img-fluid"></p>
+                <p>@lanche.DescricaoCurta</p>
+                <h3>@lanche.Preco.ToString("c")</h3>
+            </div>
+        }
     </div>
-}
+</div>

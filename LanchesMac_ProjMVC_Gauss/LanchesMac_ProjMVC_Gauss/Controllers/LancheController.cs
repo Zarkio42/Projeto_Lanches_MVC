@@ -1,4 +1,5 @@
 ﻿using LanchesMac_ProjMVC_Gauss.Repositories.Interfaces;
+using LanchesMac_ProjMVC_Gauss.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 
 namespace LanchesMac_ProjMVC_Gauss.Controllers
@@ -14,15 +15,22 @@ namespace LanchesMac_ProjMVC_Gauss.Controllers
         public IActionResult List()
         {
             ViewData["Titulo"] = "Todos os Lanches";
-            ViewData["Data"] = DateTime.Now;
 
-            var lanches = _lancheRepository.Lanches;
-            var totalLanches = lanches.Count();
+            //ViewData["Data"] = DateTime.Now;
+            //var totalLanches = lanches.Count();
+            //var lanches = _lancheRepository.Lanches;
 
-            ViewBag.Total = "Total de Lanches: ";
-            ViewBag.TotalLanches = totalLanches;
 
-            return View(lanches);
+            //ViewBag.Total = "Total de Lanches: ";
+            //ViewBag.TotalLanches = totalLanches;
+
+            //return View(lanches);
+
+            var lanchesListViewModel = new LancheListViewModel();
+            lanchesListViewModel.Lanches = _lancheRepository.Lanches;
+            lanchesListViewModel.CategoriaAtual = "Categoria Atual";
+
+            return View(lanchesListViewModel);
         }
     }
 }
