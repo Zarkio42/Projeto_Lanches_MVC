@@ -11,13 +11,7 @@
 
         @foreach (var lanche in Model.Lanches)
         {
-
-            <div class="col-sm-4 col-md-4 col-lg-4">
-                <h4>@lanche.NameLanche</h4>
-                <p><img src="@lanche.ImagemUrl" class="img-fluid"></p>
-                <p>@lanche.DescricaoCurta</p>
-                <h3>@lanche.Preco.ToString("c")</h3>
-            </div>
+            <partial name ="_LanchesResumo" for="@lanche" />
         }
     </div>
 </div>
