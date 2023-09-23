@@ -1,4 +1,5 @@
 using LanchesMac_ProjMVC_Gauss.Context;
+using LanchesMac_ProjMVC_Gauss.Models;
 using LanchesMac_ProjMVC_Gauss.Repositories;
 using LanchesMac_ProjMVC_Gauss.Repositories.Interfaces;
 using Microsoft.EntityFrameworkCore;
@@ -12,6 +13,7 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 
 builder.Services.AddTransient<ILancheRepository, LancheRepository>();
 builder.Services.AddTransient<ICategoriaRepository, CategoriaRepository>();
+builder.Services.AddScoped(sp => CarrinhoCompra.GetCarrinho(sp));
 
 //Ajustanto sessions e HttpContext
 builder.Services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();

@@ -25,6 +25,14 @@
       "PackagePath": "staticwebassets\\images\\3.png"
     },
     {
+      "Id": "C:\\Users\\User\\Desktop\\Projeto_Lanches_MVC\\LanchesMac_ProjMVC_Gauss\\LanchesMac_ProjMVC_Gauss\\wwwroot\\images\\carrinho-de-compras.png",
+      "PackagePath": "staticwebassets\\images\\carrinho-de-compras.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Projeto_Lanches_MVC\\LanchesMac_ProjMVC_Gauss\\LanchesMac_ProjMVC_Gauss\\wwwroot\\images\\lata-de-lixo.png",
+      "PackagePath": "staticwebassets\\images\\lata-de-lixo.png"
+    },
+    {
       "Id": "C:\\Users\\User\\Desktop\\Projeto_Lanches_MVC\\LanchesMac_ProjMVC_Gauss\\LanchesMac_ProjMVC_Gauss\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
