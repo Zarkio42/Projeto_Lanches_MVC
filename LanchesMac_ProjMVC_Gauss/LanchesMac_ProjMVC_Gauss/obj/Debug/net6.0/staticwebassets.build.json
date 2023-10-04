@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "lvLi6Mv3ofztDyGz7NMy59jAdv7iGSToVkqMl89eHGQ=",
+  "Hash": "TuyVJCAId5vTjRaCkprGnZKsOYhHSp7wqv2Ub5JL5iI=",
   "Source": "LanchesMac_ProjMVC_Gauss",
   "BasePath": "_content/LanchesMac_ProjMVC_Gauss",
   "Mode": "Default",
@@ -134,6 +134,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\3.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Projeto_Lanches_MVC\\LanchesMac_ProjMVC_Gauss\\LanchesMac_ProjMVC_Gauss\\wwwroot\\images\\carrinho.png",
+      "SourceId": "LanchesMac_ProjMVC_Gauss",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Projeto_Lanches_MVC\\LanchesMac_ProjMVC_Gauss\\LanchesMac_ProjMVC_Gauss\\wwwroot\\",
+      "BasePath": "_content/LanchesMac_ProjMVC_Gauss",
+      "RelativePath": "images/carrinho.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\carrinho.png"
     },
     {
       "Identity": "C:\\Users\\User\\Desktop\\Projeto_Lanches_MVC\\LanchesMac_ProjMVC_Gauss\\LanchesMac_ProjMVC_Gauss\\wwwroot\\images\\carrinho-de-compras.png",
