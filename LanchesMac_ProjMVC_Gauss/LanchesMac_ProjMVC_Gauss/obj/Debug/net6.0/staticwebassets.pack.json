@@ -33,8 +33,20 @@
       "PackagePath": "staticwebassets\\images\\carrinho.png"
     },
     {
+      "Id": "C:\\Users\\User\\Desktop\\Projeto_Lanches_MVC\\LanchesMac_ProjMVC_Gauss\\LanchesMac_ProjMVC_Gauss\\wwwroot\\images\\envelope.png",
+      "PackagePath": "staticwebassets\\images\\envelope.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Projeto_Lanches_MVC\\LanchesMac_ProjMVC_Gauss\\LanchesMac_ProjMVC_Gauss\\wwwroot\\images\\faleconosco.png",
+      "PackagePath": "staticwebassets\\images\\faleconosco.png"
+    },
+    {
       "Id": "C:\\Users\\User\\Desktop\\Projeto_Lanches_MVC\\LanchesMac_ProjMVC_Gauss\\LanchesMac_ProjMVC_Gauss\\wwwroot\\images\\lata-de-lixo.png",
       "PackagePath": "staticwebassets\\images\\lata-de-lixo.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Projeto_Lanches_MVC\\LanchesMac_ProjMVC_Gauss\\LanchesMac_ProjMVC_Gauss\\wwwroot\\images\\whatsapp.png",
+      "PackagePath": "staticwebassets\\images\\whatsapp.png"
     },
     {
       "Id": "C:\\Users\\User\\Desktop\\Projeto_Lanches_MVC\\LanchesMac_ProjMVC_Gauss\\LanchesMac_ProjMVC_Gauss\\wwwroot\\js\\site.js",

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "TuyVJCAId5vTjRaCkprGnZKsOYhHSp7wqv2Ub5JL5iI=",
+  "Hash": "mfinsbJzdVv9NmNgA23aedgGhf7yK74Dp0ersN711l4=",
   "Source": "LanchesMac_ProjMVC_Gauss",
   "BasePath": "_content/LanchesMac_ProjMVC_Gauss",
   "Mode": "Default",
@@ -170,6 +170,40 @@
       "OriginalItemSpec": "wwwroot\\images\\carrinho-de-compras.png"
     },
     {
+      "Identity": "C:\\Users\\User\\Desktop\\Projeto_Lanches_MVC\\LanchesMac_ProjMVC_Gauss\\LanchesMac_ProjMVC_Gauss\\wwwroot\\images\\envelope.png",
+      "SourceId": "LanchesMac_ProjMVC_Gauss",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Projeto_Lanches_MVC\\LanchesMac_ProjMVC_Gauss\\LanchesMac_ProjMVC_Gauss\\wwwroot\\",
+      "BasePath": "_content/LanchesMac_ProjMVC_Gauss",
+      "RelativePath": "images/envelope.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\envelope.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Projeto_Lanches_MVC\\LanchesMac_ProjMVC_Gauss\\LanchesMac_ProjMVC_Gauss\\wwwroot\\images\\faleconosco.png",
+      "SourceId": "LanchesMac_ProjMVC_Gauss",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Projeto_Lanches_MVC\\LanchesMac_ProjMVC_Gauss\\LanchesMac_ProjMVC_Gauss\\wwwroot\\",
+      "BasePath": "_content/LanchesMac_ProjMVC_Gauss",
+      "RelativePath": "images/faleconosco.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\faleconosco.png"
+    },
+    {
       "Identity": "C:\\Users\\User\\Desktop\\Projeto_Lanches_MVC\\LanchesMac_ProjMVC_Gauss\\LanchesMac_ProjMVC_Gauss\\wwwroot\\images\\lata-de-lixo.png",
       "SourceId": "LanchesMac_ProjMVC_Gauss",
       "SourceType": "Discovered",
@@ -185,6 +219,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\lata-de-lixo.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Projeto_Lanches_MVC\\LanchesMac_ProjMVC_Gauss\\LanchesMac_ProjMVC_Gauss\\wwwroot\\images\\whatsapp.png",
+      "SourceId": "LanchesMac_ProjMVC_Gauss",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Projeto_Lanches_MVC\\LanchesMac_ProjMVC_Gauss\\LanchesMac_ProjMVC_Gauss\\wwwroot\\",
+      "BasePath": "_content/LanchesMac_ProjMVC_Gauss",
+      "RelativePath": "images/whatsapp.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\whatsapp.png"
     },
     {
       "Identity": "C:\\Users\\User\\Desktop\\Projeto_Lanches_MVC\\LanchesMac_ProjMVC_Gauss\\LanchesMac_ProjMVC_Gauss\\wwwroot\\js\\site.js",
