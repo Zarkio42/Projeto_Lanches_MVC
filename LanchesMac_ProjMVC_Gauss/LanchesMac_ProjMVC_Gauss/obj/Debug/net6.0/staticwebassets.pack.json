@@ -41,6 +41,10 @@
       "PackagePath": "staticwebassets\\images\\faleconosco.png"
     },
     {
+      "Id": "C:\\Users\\User\\Desktop\\Projeto_Lanches_MVC\\LanchesMac_ProjMVC_Gauss\\LanchesMac_ProjMVC_Gauss\\wwwroot\\images\\home.png",
+      "PackagePath": "staticwebassets\\images\\home.png"
+    },
+    {
       "Id": "C:\\Users\\User\\Desktop\\Projeto_Lanches_MVC\\LanchesMac_ProjMVC_Gauss\\LanchesMac_ProjMVC_Gauss\\wwwroot\\images\\lata-de-lixo.png",
       "PackagePath": "staticwebassets\\images\\lata-de-lixo.png"
     },

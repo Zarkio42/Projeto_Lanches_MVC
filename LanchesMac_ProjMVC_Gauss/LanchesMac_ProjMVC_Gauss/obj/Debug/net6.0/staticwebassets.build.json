@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "mfinsbJzdVv9NmNgA23aedgGhf7yK74Dp0ersN711l4=",
+  "Hash": "4cPr6e70/Hatnu8LhBScjNM6tIW6SSAXNlsvWQIqHb4=",
   "Source": "LanchesMac_ProjMVC_Gauss",
   "BasePath": "_content/LanchesMac_ProjMVC_Gauss",
   "Mode": "Default",
@@ -202,6 +202,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\faleconosco.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Projeto_Lanches_MVC\\LanchesMac_ProjMVC_Gauss\\LanchesMac_ProjMVC_Gauss\\wwwroot\\images\\home.png",
+      "SourceId": "LanchesMac_ProjMVC_Gauss",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Projeto_Lanches_MVC\\LanchesMac_ProjMVC_Gauss\\LanchesMac_ProjMVC_Gauss\\wwwroot\\",
+      "BasePath": "_content/LanchesMac_ProjMVC_Gauss",
+      "RelativePath": "images/home.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\home.png"
     },
     {
       "Identity": "C:\\Users\\User\\Desktop\\Projeto_Lanches_MVC\\LanchesMac_ProjMVC_Gauss\\LanchesMac_ProjMVC_Gauss\\wwwroot\\images\\lata-de-lixo.png",
