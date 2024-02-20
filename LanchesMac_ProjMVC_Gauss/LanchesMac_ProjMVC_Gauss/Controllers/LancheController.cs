@@ -37,20 +37,20 @@ namespace LanchesMac_ProjMVC_Gauss.Controllers
             }
             else
             {
-                if(string.Equals("Normal", categoria, StringComparison.OrdinalIgnoreCase)) //StringComparison.OrdinalIgnoreCase -> ignora se é caixa alta ou baixa.
-                {
-                    lanches = _lancheRepository.Lanches.Where(l => l.Categoria.CategoriaNome.Equals("Normal"))
-                        .OrderBy(l => l.NameLanche);
-                }
-                else if (string.Equals("Natural", categoria, StringComparison.OrdinalIgnoreCase))
-                {
-                    lanches = _lancheRepository.Lanches.Where(l => l.Categoria.CategoriaNome.Equals("Natural"))
-                        .OrderBy(l => l.NameLanche);
-                }
-                else
-                {
-                    lanches = _lancheRepository.Lanches;
-                }
+                //if(string.Equals("Normal", categoria, StringComparison.OrdinalIgnoreCase)) //StringComparison.OrdinalIgnoreCase -> ignora se é caixa alta ou baixa.
+                //{
+                //    lanches = _lancheRepository.Lanches.Where(l => l.Categoria.CategoriaNome.Equals("Normal"))
+                //        .OrderBy(l => l.NameLanche);
+                //}
+                //else
+                //{
+                //    lanches = _lancheRepository.Lanches.Where(l => l.Categoria.CategoriaNome.Equals("Natural"))
+                //        .OrderBy(l => l.NameLanche);
+                //}
+
+                lanches = _lancheRepository.Lanches.Where(l => l.Categoria.CategoriaNome.Equals(categoria))
+                        .OrderBy(c => c.NameLanche);
+
                 categoriaAtual = categoria;
             }
 

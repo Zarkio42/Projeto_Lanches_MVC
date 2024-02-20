@@ -295,3 +295,4 @@ C:\Users\User\Desktop\Projeto_Lanches_MVC\LanchesMac_ProjMVC_Gauss\LanchesMac_Pr
 C:\Users\User\Desktop\Projeto_Lanches_MVC\LanchesMac_ProjMVC_Gauss\LanchesMac_ProjMVC_Gauss\obj\Debug\net6.0\LanchesMac_ProjMVC_Gauss.pdb
 C:\Users\User\Desktop\Projeto_Lanches_MVC\LanchesMac_ProjMVC_Gauss\LanchesMac_ProjMVC_Gauss\obj\Debug\net6.0\LanchesMac_ProjMVC_Gauss.genruntimeconfig.cache
 C:\Users\User\Desktop\Projeto_Lanches_MVC\LanchesMac_ProjMVC_Gauss\LanchesMac_ProjMVC_Gauss\obj\Debug\net6.0\ref\LanchesMac_ProjMVC_Gauss.dll
+C:\Users\User\Desktop\Projeto_Lanches_MVC\LanchesMac_ProjMVC_Gauss\LanchesMac_ProjMVC_Gauss\obj\Debug\net6.0\LanchesMac_ProjMVC_Gauss.sourcelink.json
